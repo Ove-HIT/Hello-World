@@ -1,2 +1,4 @@
 # Hello-World
-Try new thing hhh
+Try something new about coding hhh
+Ph.D. in Harbin Institute of Technology 
+Major in Municipal Engineering
