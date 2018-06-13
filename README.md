@@ -7,7 +7,8 @@
 
 -[简书](https://www.jianshu.com/p/q81RER)
 
--![收纳][收纳](https://github.com/Ove-HIT/MarkdownPhotos/blob/photos/%E6%94%B6%E7%BA%B3.jpg)
+-![收纳](https://github.com/Ove-HIT/MarkdownPhotos/blob/photos/%E6%94%B6%E7%BA%B3.jpg)
+**收纳**
 
 -[git - 简明指南](http://rogerdudler.github.io/git-guide/index.zh.html)
 
